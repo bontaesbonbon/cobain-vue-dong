@@ -1,0 +1,27 @@
+{
+  "name": "cobain-vue-dong",
+  "version": "1.0.0",
+  "description": "cobain vue pake heroku",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bontaesbonbon/cobain-vue-dong.git"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "dependencies": {
+    "express": "^4.9.8",
+    "vue": "^2.6.10",
+    "webpack": "^4.29.6"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bontaesbonbon/cobain-vue-dong/issues"
+  },
+  "homepage": "https://github.com/bontaesbonbon/cobain-vue-dong#readme"
+}
